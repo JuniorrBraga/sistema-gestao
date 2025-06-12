@@ -1,7 +1,7 @@
 # Sistema de Gestão JB (Protótipo)
 
-![Captura de Tela do Sistema](https://i.imgur.com/G53B25l.png)
-_Sugestão: Substitua o link acima por uma captura de tela do seu sistema em funcionamento._
+![image](https://github.com/user-attachments/assets/50b08e95-4aa6-4e0f-9040-304396f7a864)
+
 
 ## 📋 Sobre o Projeto
 
